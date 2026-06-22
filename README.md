@@ -1,5 +1,6 @@
 Appendix for:
 Does AfT Stimulate Exports from Developing and Emerging Economies? Sectoral Evidence from PPML Estimation
+
 Marta Wajda-Lichy, Jagoda Kaszowska-Mojsa, and Mateusz Racławski
 
 

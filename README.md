@@ -10,6 +10,7 @@ Contents
 
 - Descriptive statistics and correlation matrix
 - List of countries included in the sample
+- Other results not reported on the poster
 
 Contact:
 Mateusz Racławski
